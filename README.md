@@ -11,6 +11,7 @@ In This Programme I Have Included Some Useful Features Some Of Theme Are:
 - Grabs Latest BDIX Server List From Internet And I Update Them Regularly
 - No Need To Download Again Manually For BDIX Server List Update
 - Shows Only Downloadable Servers
+- Saves Working Servers In A TXT File
 - 🚨 Currently, Most Of The FTP Servers Are In This Programme But TV Servers Are Coming Soon
 
 # 💛 Contact Me: 

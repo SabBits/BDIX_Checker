@@ -14,7 +14,7 @@ In This Programme I Have Included Some Useful Features Some Of Theme Are:
 - Saves Working Servers In A TXT File
 - Programme Will Get Update Regularly
 - 🚨 Currently, Few Popular FTP Servers Are In This Programme And TV Servers Are Coming Soon
-- Version 2.0 Is Under Development
+- 🚨 Currently, Version 2.0 Is Under Development
 
 # ⚡️ Demo:
 ![cgapp_deploy](http://g.recordit.co/8K6hQYFdnA.gif)

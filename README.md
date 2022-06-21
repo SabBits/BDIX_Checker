@@ -13,8 +13,8 @@ In This Programme I Have Included Some Useful Features Some Of Theme Are:
 - Shows Only Downloadable Servers
 - Saves Working Servers In A TXT File
 - Programme Will Get Update Regularly
-- 🚨 Currently, Few Popular FTP Servers Are In This Programme And TV Servers Are Coming Soon
-- 🚨 Currently, Version 2.0 Is Under Development
+- 🚨 Currently, Few Popular FTP And TV Servers Are Available In This Programme
+- 🚨 Currently, TV Servers Added In Version 1.1
 
 # ⚡️ Demo:
 ![cgapp_deploy](http://g.recordit.co/8K6hQYFdnA.gif)

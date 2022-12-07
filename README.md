@@ -4,6 +4,9 @@
 </h1>
 <p align="center">A Command Line Programme To Check What <b>BDIX FTP</b> And <b>TV</b> Servers Are Connected To Your ISP</b></p>
 
+# 🔥Update:
+<strong>Get Ready!</strong> Threading Feature Is Coming Soon For Lighting Fast Checking
+
 # 👨‍💻 Features:
 
 In This Programme I Have Included Some Useful Features Some Of Theme Are:
